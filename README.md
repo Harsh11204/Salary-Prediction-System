@@ -82,6 +82,6 @@ Joblib (for saving and loading trained models)
 
 ## 📧 Contact
 
-**Developed by:** Harsh Verma
-**Email:** [harshverma11204@gmail.com](mailto:harshverma11204@gmail.com)
+**Developed by:** Harsh Verma ||
+**Email:** [harshverma11204@gmail.com](mailto:harshverma11204@gmail.com) ||
 **LinkedIn:** [https://www.linkedin.com/in/harsh-verma-1b3857287](https://www.linkedin.com/in/harsh-verma-1b3857287)
