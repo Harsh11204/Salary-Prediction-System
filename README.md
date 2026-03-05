@@ -7,17 +7,16 @@ This project demonstrates a complete end-to-end machine learning workflow, inclu
 
 ## 📂 Dataset Format
 
-The dataset must be in CSV format and should contain the following columns:
+The dataset **must be in CSV format** and should contain **at least** the following columns:
 
-Column Name	Type	Description
-age	Integer	Age of the employee
-years_experience	Integer	Total years of professional experience
-performance_score	Float	Employee performance rating (1–5 scale)
-city	String	City where the employee works
-department	String	Department of the employee
-salary	Float	Actual salary of the employee (target variable)
-
-The dataset used for this project contains 500 synthetic employee records used for training and testing the model.
+| Column Name | Type | Description |
+|-------------|------|-------------|
+| `age` | Integer | Age of the employee |
+| `years_experience` | Integer | Total years of professional experience |
+| `performance_score` | Float | Performance rating of the employee |
+| `city` | String | City where the employee works |
+| `department` | String | Department of the employee |
+| `salary` | Float | Actual salary of the employee (target variable) |
 
 ## Features & Usage
 ### 1. Employee Input Panel
