@@ -19,7 +19,7 @@ The dataset used to train this model has the following structure:
 | `salary` | Float | Actual salary of the employee (target variable) |
 
 ## 🚀Features & Usage
-### 👤1. Employee Input Panel
+### 1.👤 Data Input Panel
 
 Users can manually enter employee details:
 
@@ -35,7 +35,7 @@ Users can manually enter employee details:
 
 After entering the details, the system predicts the expected salary using the trained machine learning model.
 
-### 💼2. Salary Prediction
+### 2.💼 Salary Prediction
 
 The system processes the input data using the same preprocessing steps used during training:
 
@@ -47,7 +47,7 @@ The system processes the input data using the same preprocessing steps used duri
 
 Then, the model predicts the estimated salary.
 
-### 📈3. Model Evaluation
+### 3.📈 Model Evaluation
 
 The model performance is evaluated using multiple metrics:
 
@@ -57,7 +57,7 @@ The model performance is evaluated using multiple metrics:
 
 * MAE (Mean Absolute Error) – Measures average prediction error
 
-### 📊4. Data Visualization
+### 4.📊 Data Visualization
 
 The project also includes some visualizations during model development:
 
