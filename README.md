@@ -45,7 +45,7 @@ The system processes the input data using the same preprocessing steps used duri
 
 * Column alignment with training data
 
-Then the model predicts the estimated salary.
+Then, the model predicts the estimated salary.
 
 ### 3. Model Evaluation
 
