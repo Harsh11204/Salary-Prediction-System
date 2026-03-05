@@ -18,7 +18,7 @@ The dataset used to train this model has the following structure:
 | `department` | String | Department of the employee |
 | `salary` | Float | Actual salary of the employee (target variable) |
 
-## Features & Usage
+## 🚀Features & Usage
 ### 1. Employee Input Panel
 
 Users can manually enter employee details:
