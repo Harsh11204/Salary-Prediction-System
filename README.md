@@ -57,8 +57,6 @@ The model performance is evaluated using multiple metrics:
 
 * 📊 MAE (Mean Absolute Error) – Measures average prediction error
 
-Visualization of Actual vs Predicted Salary helps assess model performance.
-
 ### 4. Data Visualization
 
 The project also includes some visualizations during model development:
