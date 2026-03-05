@@ -7,7 +7,7 @@ This project demonstrates a complete end-to-end machine learning workflow, inclu
 
 ## 📂 Dataset Format
 
-The dataset **must be in CSV format** and should contain **at least** the following columns:
+The dataset used to train this model has the following structure:
 
 | Column Name | Type | Description |
 |-------------|------|-------------|
